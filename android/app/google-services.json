@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948651502618",
+    "project_id": "campus-drive-app",
+    "storage_bucket": "campus-drive-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948651502618:android:43beca7c72689b8bb7f5a3",
+        "android_client_info": {
+          "package_name": "com.smarttodo.planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948651502618-p337or3h2klfa6eesjj259oj3bkgl405.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1CDGq9x_EKtNkjUJQB_BmrMaPUFXg0Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948651502618-p337or3h2klfa6eesjj259oj3bkgl405.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
