@@ -74,11 +74,25 @@ google_sign_in
 
 > ⚠️ Replace these with your actual screenshots
 
-| Splash                             | Home                             | Analytics                             |
-| ---------------------------------- | -------------------------------- | ------------------------------------- |
-| ![](assets/images/Screenshots0.png)| ![](assets/images/Screenshot1.png) | ![](assets/images/Screenshot5.png) |
-![](assets/images/Screenshots2.png)  ![](assets/images/Screenshots3.png)  ![](assets/images/Screenshots4.png) 
- ![](assets/images/Screenshots6.png)  ![](assets/images/Screenshots7.png) ![](assets/images/Screenshots8.png) 
+ Splash                            
+![](assets/images/Screenshots0.png) 
+ Home.
+![](assets/images/Screenshot1.png) 
+Analytic
+![](assets/images/Screenshot5.png) 
+
+![](assets/images/Screenshots2.png) 
+
+![](assets/images/Screenshots3.png) 
+
+![](assets/images/Screenshots4.png) 
+
+![](assets/images/Screenshots6.png) 
+
+![](assets/images/Screenshots7.png) 
+
+![](assets/images/Screenshots8.png) 
+
 ---
 
 ## 🔐 Firebase Setup
