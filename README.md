@@ -73,21 +73,21 @@ google_sign_in
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/images/Screenshots0.png" width="250"/>
+  <img src="assets/images/Screenshot0.png" width="250"/>
   <img src="assets/images/Screenshot1.png" width="250"/>
+   <img src="assets/images/Screenshot2.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="assets/images/Screenshot3.png" width="250"/>
+  <img src="assets/images/Screenshot4.png" width="250"/>
   <img src="assets/images/Screenshot5.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="assets/images/Screenshots2.png" width="250"/>
-  <img src="assets/images/Screenshots3.png" width="250"/>
-  <img src="assets/images/Screenshots4.png" width="250"/>
-</p>
-
-<p align="center">
-  <img src="assets/images/Screenshots6.png" width="250"/>
-  <img src="assets/images/Screenshots7.png" width="250"/>
-  <img src="assets/images/Screenshots8.png" width="250"/>
+  <img src="assets/images/Screenshot6.png" width="250"/>
+  <img src="assets/images/Screenshot7.png" width="250"/>
+  <img src="assets/images/Screenshot8.png" width="250"/>
 </p> 
 
 ---
