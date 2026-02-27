@@ -72,25 +72,15 @@ google_sign_in
 
 ## 📸 Screenshots
 
-> ⚠️ Replace these with your actual screenshots
-
- Splash                            
+> ⚠️ Replace these with your actual screenshots                   
 ![](assets/images/Screenshots0.png) 
- Home.
 ![](assets/images/Screenshot1.png) 
-Analytic
 ![](assets/images/Screenshot5.png) 
-
 ![](assets/images/Screenshots2.png) 
-
 ![](assets/images/Screenshots3.png) 
-
 ![](assets/images/Screenshots4.png) 
-
 ![](assets/images/Screenshots6.png) 
-
 ![](assets/images/Screenshots7.png) 
-
 ![](assets/images/Screenshots8.png) 
 
 ---
